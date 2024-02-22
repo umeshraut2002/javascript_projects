@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: white;
+  background-color: black;
+}
+
+.sticker{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;   
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#banner {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 50px;
+  font-weight: bold;
+  opacity: 0.7;
+}
+
+#clock {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+#date {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+#anathor{
+    margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 25px;
+  font-weight: bold;
+}
